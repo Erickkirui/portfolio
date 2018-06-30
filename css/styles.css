@@ -9,9 +9,11 @@ p {
 	font-size: 20px;
 	color: red;
   float: right;
+  background-image: image url("/home/erick/Documents/Project/image/home.jpg");
 }
 .kenya{
   	background-image: url("/home/erick/Pictures/2001488.jpg");
+    background-repeat: repeat;
 }
 .pixels{
   max-height: 300px;
@@ -19,4 +21,11 @@ max-width: 300px;
 width: 140px;
 height: 140px;
 float: left;
+}
+h2{text-align: center;
+font-style: italic;
+font-stretch: expanded;
+color: red;
+font-size: 25px;
+
 }
