@@ -28,6 +28,17 @@ font-stretch: expanded;
 color: red;
 font-size: 25px;
 }
-ul{
+.erick{
 background-image: url("/home/erick/Pictures/2001721.jpg");
+bottom: 20px;
+right: 20px;
+background-color: black;
+color: white;
+padding-left: 20px;}
+.imag{
+  width: 100%;
+height: 500px;
+background-image: url('img_flowers.jpg');
+background-size: cover;
+border: 1px solid red;
 }
