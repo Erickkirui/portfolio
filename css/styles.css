@@ -1,0 +1,22 @@
+h1{
+  text-align: center;
+  font-style: italic;
+  font-stretch: expanded;
+  color: red;
+  font-size: 25px;
+}
+p {
+	font-size: 20px;
+	color: red;
+  float: right;
+}
+.kenya{
+  	background-image: url("/home/erick/Pictures/2001488.jpg");
+}
+.pixels{
+  max-height: 300px;
+max-width: 300px;
+width: 140px;
+height: 140px;
+float: left;
+}
